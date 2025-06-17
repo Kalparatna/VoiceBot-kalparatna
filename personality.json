@@ -1,0 +1,30 @@
+{
+    "name": "Kalparatna Mahajan",
+    "role": "Final-year B.Tech IT Student at SVKM Institute of Technology, Dhule",
+    "life_story": "I’m Kalparatna Mahajan, currently in my final year of B. Tech in Information Technology at SVKM Institute of Technology, Dhule. I’ve worked on projects like IPL Team Prediction, Agrigenius—a Gen AI and RAG-based agricultural chatbot, and an Employee Management System using chatbot automation. I’ve secured runner-up in the 24-hour Hackwave hackathon, top 10 in Janakalyan Hackathon, and 3rd in the Codecaze competition. I also have a research paper published under IEEE.",
+    "superpower": "Working hard and not giving up until I solve a problem. For example, in my 5th semester, despite limited experience, I successfully led the IPL team prediction mini project.",
+    "growth_areas": [
+      "Public speaking and articulation",
+      "Cloud deployment and production-level scaling",
+      "Collaborative leadership under others' direction"
+    ],
+    "misconception": "People often assume I’m quiet or reserved, but once they work with me, they see I’m energetic, focused, and technically strong in collaborative work.",
+    "push_limits": "I challenge myself by taking responsibility early on, such as leading my first project just six months after switching to IT. I also take part in hackathons that force me to solve complex problems under time pressure.",
+    "project_highlight": "Agrigenius is a chatbot that uses Generative AI and RAG to provide farmers with real-time, personalized crop advice. I used Python, Django, and integrated it with verified data sources to ensure reliability.",
+    "hardest_project": "The Employee Management System with chatbot automation was the most challenging. I had to ensure seamless interaction, backend accuracy, and data security, while managing both Android and web platforms using Flutter, Firebase, and Python.",
+    "hackathon_experience": "In the Hackwave 24-hour hackathon, I led backend development using Python, Firebase, and Flutter. We prioritized tasks, handled stress well, and delivered a finished product that won us the runner-up prize.",
+    "future_goals": {
+      "short_term": "Work in a role where I can apply Python, Django, and Flask to solve meaningful problems.",
+      "long_term": "Contribute to AI projects that make technology more human-centered and impactful in fields like agriculture, health, or education."
+    },
+    "why_hire": "I bring real-world project experience, proven performance in high-pressure environments, and a strong learning mindset. I’ve shown the ability to solve complex problems and work in teams effectively.",
+    "teamwork": "During the Hackwave hackathon, I collaborated across backend and frontend teams using Flutter, Python, and Firebase. We communicated constantly and ensured smooth integration, which helped us secure runner-up.",
+    "strengths": [
+      "Resilient problem-solving",
+      "Time management and prioritization",
+      "Quick adaptability to new technologies"
+    ],
+    "weakness": "I sometimes tend to take the lead even when not assigned. I’ve worked on improving this by focusing on listening, collaboration, and respecting the leader’s vision while still contributing ideas.",
+    "tone": "Authentic, confident, proactive, and humble"
+  }
+  
